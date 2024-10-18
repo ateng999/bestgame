@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+	<title>2190046</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/index_sp.css">
+	<link rel="stylesheet" href="css/index_pc.css">
+	<link rel="stylesheet" href="css/print.css" media="print">
+</head>
+<body>
+	<div class="wrap">
+		<h1>Best Games 2024</h1>
+
+		<div class="searchBlock">
+			<label for="search" class="searchLabel">Search</label>
+			<input type="text" id="search" placeholder="Search games by title">
+		</div>
+
+		<div id="filters">
+			<h3>Filter by:</h3>
+			<div class="platformBlock">
+				<h4>Platform:</h4>
+				<button class="filterBtn platform" data-platform="PlayStation">Play Station</button>
+				<button class="filterBtn platform" data-platform="Xbox">Xbox</button>
+				<button class="filterBtn platform" data-platform="PC">PC</button>
+				<button class="filterBtn platform" data-platform="Nintendo">PSP</button>
+				<button class="filterBtn platform" data-platform="Nintendo">Nintendo</button>
+			</div>
+			<div class="genreBlock">
+				<h4>Genre:</h4>
+				<button class="filterBtn genre" data-genre="Adventure">Adventure</button>
+				<button class="filterBtn genre" data-genre="RPG">RPG</button>
+				<button class="filterBtn genre" data-genre="Puzzle">Puzzle</button>
+				<button class="filterBtn genre" data-genre="Action">Action</button>
+				<button class="filterBtn genre" data-genre="Fantasy">Fantasy</button>
+				<button class="filterBtn genre" data-genre="FPS">FPS</button>
+				<button class="filterBtn genre" data-genre="Arcade">Arcade</button>
+				<button class="filterBtn genre" data-genre="Horror">Horror</button>
+			</div>
+		</div>
+
+		<div id="gamesList" class="gamesGrid">
+		</div>
+	</div>
+<script src="js/index.js"></script>
+</body>
+</html>

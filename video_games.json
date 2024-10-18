@@ -1,0 +1,174 @@
+[
+    {
+        "title": "Legend of Zelda: Breath of the Wild (March 3, 2017)",
+        "cover_photo": "/images/legend-of-zelda-breath-of-the-wild.jpg",
+        "genres": [
+            "Adventure",
+            "RPG",
+            "Puzzle"
+        ],
+        "consoles_available": [
+            "Nintendo",
+            "PC"
+        ],
+        "description": "Explore the vast kingdom of Hyrule as Link in this critically acclaimed open-world adventure.",
+        "developer": "Nintendo EPD"
+    },
+    {
+        "title": "God of War: Ragnarok (November 9, 2022)",
+        "cover_photo": "/images/god-of-war-ragnarok.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "consoles_available": [
+            "PlayStation"
+        ],
+        "description": "Kratos and Atreus journey across mythological realms to prevent the end of the world.",
+        "developer": "Santa Monica Studio"
+    },
+    {
+        "title": "Red Dead Redemption (May 18, 2010)",
+        "cover_photo": "/images/red-dead-redemption-2.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "consoles_available": [
+            "PlayStation",
+            "Xbox"
+        ],
+        "description": "Live the life of an outlaw in the dying days of the American Old West in this open-world epic.",
+        "developer": "Rockstar San Diego"
+    },
+    {
+        "title": "Pokemon Crystal Version (December 14, 2000)",
+        "cover_photo": "/images/pokemon-crystal-version.jpg",
+        "genres": [
+            "RPG",
+            "Adventure"
+        ],
+        "consoles_available": [
+            "Nintendo"
+        ],
+        "description": "Catch and train Pokemon in this enhanced version of the popular second-generation Pokemon games.",
+        "developer": "Game Freak"
+    },
+    {
+        "title": "Final Fantasy 9 (July 7, 2000)",
+        "cover_photo": "/images/final-fantasy-9.jpg",
+        "genres": [
+            "RPG",
+            "Fantasy"
+        ],
+        "consoles_available": [
+            "PlayStation",
+            "PC",
+            "Nintendo"
+        ],
+        "description": "Join Zidane and his allies on a magical journey to save their world from destruction.",
+        "developer": "Square"
+    },
+    {
+        "title": "Legend of Mana (July 15, 1999)",
+        "cover_photo": "/images/legend-of-mana.jpg",
+        "genres": [
+            "RPG",
+            "Action"
+        ],
+        "consoles_available": [
+            "PlayStation",
+            "Nintendo",
+            "PC"
+        ],
+        "description": "Shape the world of Fa'Diel through magical artifacts and explore its hidden mysteries in this action RPG.",
+        "developer": "Square"
+    },
+    {
+        "title": "Legend of Legaia (October 29, 1998)",
+        "cover_photo": "/images/legend-of-legaia.jpg",
+        "genres": [
+            "RPG",
+            "Adventure"
+        ],
+        "consoles_available": [
+            "PlayStation"
+        ],
+        "description": "A young warrior must awaken ancient Seru creatures to battle a deadly mist in this unique RPG.",
+        "developer": "Prokion"
+    },
+    {
+        "title": "Call of Duty: Modern Warfare (October 25, 2019)",
+        "cover_photo": "/images/call-of-duty.jpg",
+        "genres": [
+            "FPS",
+            "Action"
+        ],
+        "consoles_available": [
+            "PlayStation",
+            "Xbox",
+            "PC"
+        ],
+        "description": "The stakes are higher than ever as you fight in intense, realistic military missions in this modern-era FPS.",
+        "developer": "Infinity Ward"
+    },
+    {
+        "title": "Super Mario Brothers (September 13, 1985)",
+        "cover_photo": "/images/super-mario-brothers.jpg",
+        "genres": [
+            "Arcade",
+            "Action"
+        ],
+        "consoles_available": [
+            "Nintendo",
+            "PC",
+            "Xbox"
+        ],
+        "description": "Join Mario as he embarks on a classic adventure to rescue Princess Peach from Bowser's clutches.",
+        "developer": "Nintendo R&D4"
+    },
+    {
+        "title": "Brave Story: New Traveler (July 31, 2007)",
+        "cover_photo": "/images/brave-story.jpg",
+        "genres": [
+            "RPG",
+            "Adventure"
+        ],
+        "consoles_available": [
+            "PSP"
+        ],
+        "description": "Embark on an epic journey to alter fate and save a loved one in this beautifully crafted RPG.",
+        "developer": "Game Republic"
+    },
+    {
+        "title": "Pac-Man (May 22, 1980)",
+        "cover_photo": "/images/pacman.jpg",
+        "genres": [
+            "Arcade",
+            "Puzzle"
+        ],
+        "consoles_available": [
+            "Nintendo",
+            "PC"
+        ],
+        "description": "Gobble up pellets and outwit ghosts in this iconic maze-chase game that defined a generation.",
+        "developer": "Namco"
+    },
+    {
+        "title": "Resident Evil 3 Remake (April 3, 2020)",
+        "cover_photo": "/images/resident-evil-3.jpg",
+        "genres": [
+            "Horror",
+            "Action"
+        ],
+        "consoles_available": [
+            "PlayStation",
+            "Xbox",
+            "PC"
+        ],
+        "description": "Jill Valentine fights to survive Raccoon City's zombie outbreak while being hunted by the relentless Nemesis.",
+        "developer": "Capcom"
+    }
+]

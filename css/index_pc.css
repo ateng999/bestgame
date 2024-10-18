@@ -1,0 +1,45 @@
+@media (min-width: 768px) {
+	h1 {
+		font-size: 3.5rem;
+	}
+	.searchBlock .searchLabel {
+		display: inline-block;
+	}
+	#search {
+		width: 50%;
+	}
+	#filters {
+		text-align: center;
+	}
+	#filters h4 {
+		display: inline-block;
+	}
+	.filterBtn {
+		margin: 10px 5px;
+		padding: 12px 18px 10px;
+		border-radius: 30px;
+		font-size: 1rem;
+	}
+	.gamesGrid {
+		gap: 30px 20px;
+	}
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+	.gameItem img {
+		height: 35.039672vh;
+	}
+	.gameItem {
+		width: 31%;
+	}
+	.gameItem h2 {
+		font-size: 1rem;
+	}
+}
+@media (min-width: 1024px) {
+	.gameItem {
+		width: calc(25% - 20px);
+	}
+	.gameItem img {
+		height: 44.039672vh;
+	}
+}

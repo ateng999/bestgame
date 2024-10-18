@@ -1,0 +1,75 @@
+@media print {
+	body {
+		background-color: white;
+		color: #000;
+	}
+
+	.wrap {
+		max-width: 1240px;
+		margin: 0 auto;
+		padding: 0 20px;
+	}
+
+	.gamesGrid {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-ms-flex-wrap: wrap;
+			flex-wrap: wrap;
+		-webkit-box-pack: center;
+			-ms-flex-pack: center;
+				justify-content: center;
+		gap: 30px 20px;
+	}
+
+	.gameItem {
+		width: calc(25% - 20px);
+		margin-bottom: 20px;
+		border: 1px solid rgba(0, 0, 0, 0.2);
+		background: rgba(255, 255, 255, 1);
+		-webkit-box-shadow: none;
+				box-shadow: none;
+		page-break-inside: avoid;
+	}
+
+	.gameItem img {
+		width: 100%;
+		border-radius: 10px;
+		-o-object-fit: fill;
+		   object-fit: fill;
+	}
+
+	.gameItem h2 {
+		display: block;
+		margin: 15px 0;
+		background: none;
+		color: black;
+		font-size: 1.25rem;
+		font-weight: bold;
+		text-align: center;
+		-webkit-background-clip: initial;
+		-webkit-text-fill-color: initial;
+		visibility: visible;
+	}
+
+	* {
+		-webkit-animation: none !important;
+				animation: none !important;
+		-webkit-transition: none !important;
+		-o-transition: none !important;
+		transition: none !important;
+	}
+
+	h1 {
+		display: block;
+		margin-bottom: 30px;
+		color: black;
+		font-size: 3.5rem;
+		text-align: center;
+		-webkit-text-fill-color: black;
+	}
+
+	p {
+		font-size: 1rem;
+	}
+}
